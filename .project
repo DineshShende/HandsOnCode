@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Lamba8</name>
+=======
+	<name>Thread</name>
+>>>>>>> MultiThreadingCode/master
 	<comment></comment>
 	<projects>
 	</projects>
